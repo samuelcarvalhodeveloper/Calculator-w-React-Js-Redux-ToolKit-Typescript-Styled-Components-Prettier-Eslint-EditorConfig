@@ -7,7 +7,7 @@ function Header() {
       <div className="header__center">
         <img
           src={logo}
-          alt=""
+          alt="Samuel Carvalho logo"
           className="header__logo"
         />
       </div>
