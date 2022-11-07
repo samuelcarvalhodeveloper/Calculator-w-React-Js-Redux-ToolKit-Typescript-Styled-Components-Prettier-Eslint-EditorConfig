@@ -25,6 +25,10 @@ body {
   outline: 0.3rem solid dodgerblue;
 }
 
+:active {
+  outline: none;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
