@@ -18,7 +18,7 @@ Calculator w React Js/ Redux ToolKit and Typescript</h1>
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>This is Calculator project made with redux toolkit which gives us the possibility to have global state.Using Typescript, and its own characteristic, the calculator has a different behavior to mesure on using Redux Toolkit with types</p>
+<p>This is Calculator project made with redux toolkit which gives us the possibility to have global state.Using Typescript, and its own characteristic, the calculator has a different behavior to mesure on using Redux Toolkit with types.</p>
 
 <br />
 
